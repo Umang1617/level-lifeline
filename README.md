@@ -4,7 +4,6 @@
 
 ![Agent Skill](https://img.shields.io/badge/Agent_Skill-SKILL.md-6C47FF?style=flat-square)
 ![Built for](https://img.shields.io/badge/Built_for-BlueAI_Skillathon_2026-0A84FF?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 Level Lifeline is an agent skill (a `SKILL.md` plus three reference files). Describe what you're stuck on in plain language. It opens Chrome, searches for a walkthrough, reads the Google AI Overview if one appears, opens the best guide and scrolls to the strategy, then looks up the top community post on Reddit. You get the site, the link, a 3-line summary and the Reddit post, with no alt-tabbing. It was first named Quest Guide.
 
@@ -112,6 +111,3 @@ level-lifeline/
 
 Built by [Umang Srivastava](https://www.linkedin.com/in/umang1617/) for the BlueAI Skillathon 2026.
 
-## License
-
-[MIT](LICENSE)
